@@ -43,3 +43,21 @@ Using the command console, enter the following command:
 ```git clone <link to your repository>```
 
 And Voilá! The repository is cloned to your computer!
+
+
+
+
+How to Submit a Pull Request
+
+To submit a Pull Request, follow these steps:
+•	Click the “Fork” button on the upper right-hand corner of the repository. What this will do is that it will save the repository to your Github account
+•	After the repository has been forked, a copy of the repository will be available in your Github account
+•	For example, if you want to edit the “README.md” file, then click on the “README.md” file and click on the edit button on the right. 
+•	Once you have finished editing the file, scroll down to the button and you will see a section called “Commit Changes”. 
+•	In the first empty box, you have to write what you did, for example, “added 2 lines of text”
+•	In the second empty box, you can write a description of what you did (this is optional)
+•	Click on the button (Commit Changes)
+•	Click on the button at the top of the page (Pull Request)
+•	Write the title (what you did) and a description again
+
+
